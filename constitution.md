@@ -1,2 +1,2 @@
 # Principals
-developers are students, users are teachers, 
+Developers are students, users are teachers, rather than the opposite. 
